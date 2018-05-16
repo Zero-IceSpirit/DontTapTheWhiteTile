@@ -1,6 +1,7 @@
 # DontTapTheWhiteTile
-别踩白块儿Html5，个人学习制作
-
+别踩白块儿Html5，个人学习制作  
+[在线浏览本项目](https://zero-icespirit.github.io/DontTapTheWhiteTile/)  
+  
 ## 个人联系方式
 [bilibili](https://space.bilibili.com/486633/)  
 [微博](https://weibo.com/xkywr)  
